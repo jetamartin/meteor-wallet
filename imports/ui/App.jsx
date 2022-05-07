@@ -5,7 +5,7 @@ import { ContactList } from "./ContactList";
 export const App = () => {
   return (
     <div>
-      <h1>Meteor Wallet!</h1>
+      <h1>Meteor Wallet -- Galaxy!</h1>
       <ContactForm />
       <ContactList />
     </div>
